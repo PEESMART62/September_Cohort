@@ -1,0 +1,151 @@
+body {
+    background-color: rgba(245, 247, 250, .9);
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px;
+    align-items: center;
+}
+.logo {
+    margin: 0%;
+}
+.left-nav {
+    display: flex;
+    align-items: center;
+    margin-left: 46px;
+     font-family: rubik, Arial, Helvetica, sans-serif;
+     margin-top: -10px;
+}
+.right-nav {
+    display: flex;
+    margin-right: 5.5%;
+    margin-top: -10px;
+    font-family: rubik, Arial, Helvetica, sans-serif;
+}
+ul {
+    gap: 30px;
+    display: flex;
+    font-weight: bold;
+}
+li {
+    list-style: none;
+}
+.login-btn {
+    border: none;
+    background-color: transparent;
+    font-weight: 900;
+    margin-right: 12px;
+}
+.login-btn:hover {
+color: #00a2ff;
+}
+.demo-btn {
+background-color: transparent;
+border: 2px solid #fc5b1a;
+border-radius: 10px;
+padding:8px 8px;
+font-weight: 900;
+cursor: pointer;
+color: #fc5b1a;
+margin-right: 12px;
+}
+.demo-btn:hover {
+    background-color: #fc5b1a;
+    color: #fff;
+    border: 2px solid #b93d0b;
+}
+.sign-up{
+    background-color: #00a2ff;
+    border-radius: 10px;
+    border: 2px solid #0d91de;
+    cursor: pointer;
+    color: white;
+    padding: 8px 8px;
+    font-weight: 900;
+}
+.sign-up:hover {
+    background-color: rgb(115, 105, 105);
+    color: #00a2ff;
+    border: 2px solid #00a2ff;
+}
+hr {
+    color: #717171;
+    display: block;
+}
+.section-btn {
+    display: flex;
+    padding: 20px 20px;
+    margin-left: 46px;
+    margin-top: 20px;
+    background-image: url("https://unsplash.com/photos/a-black-sports-car-rclBB0F4_0E");
+}
+.email {
+    color: #717171;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .56px;
+    font-family: rubik, Arial, Helvetica, sans-serif;
+    background-image: url("")
+}
+h1 {
+    margin: 0;
+}
+.growth {
+    font-size: 55px;
+    font-family: rubik, Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    line-height: 1.2;
+}
+.market {
+    font-weight: 400px;
+    font-size: 18.5px;
+    font-family: rubik, Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+.first-image {
+    margin-left: 47%;
+    margin-top: -36%;
+}
+.free-btn {
+border-radius: 20px;
+padding: 15px 38px;
+background-color: #fbe30c;
+font-size: 15px;
+font-family: rubik, Arial, Helvetica, sans-serif;
+border: 3px solid #e0ca0a;
+margin-top: 30px;
+}
+.free-btn:hover {
+    color: #fff;
+    background-color: #00a2ff;
+    border: 3px solid #0d91de;
+}
+.price-btn {
+border-radius: 20px;
+padding: 15px 40px;
+background-color: #000;
+color: #fff;
+font-family: rubik, Arial, Helvetica, sans-serif;
+border: 3px solid #000;
+font-size: 15px;
+margin-top: 30px;
+}
+.price-btn:hover {
+    background-color: #00a2ff;
+    border: 3px solid #0d91de;
+}
+.btn {
+    display: flex;
+    gap: 20px;
+}
+.no {
+    color: #000;
+    font-size: 12px;
+    font-weight: 400px;
+    font-style: normal;
+    font-family: rubik, Arial, Helvetica, sans-serif;
+}
+
+/* dkfkfkfklflflflflf */
